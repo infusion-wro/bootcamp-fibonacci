@@ -12,7 +12,7 @@ Introductory bootcamp task.
 
 ## Task
 
-Improve the fibonacci function, so that tests for larger values do not time out.
+Improve the fibonacci function that calculates the nth [fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number), so that tests for larger values do not time out.
 
 _Dos:_
 - Modify the body of the fibonacci function
